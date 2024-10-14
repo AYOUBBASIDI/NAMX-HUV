@@ -1,0 +1,28 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "isActive": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-1234"
+      },
+      {
+        "type": "mobile",
+        "number": "555-5678"
+      }
+    ],
+    "tags": ["developer", "designer"],
+    "metadata": {
+      "createdAt": "2024-08-28T12:34:56Z",
+      "updatedAt": "2024-08-28T14:56:78Z"
+    }
+  }
+  
