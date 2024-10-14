@@ -1,6 +1,6 @@
 # NAMX HUV Pre-Order Website
 
-![NAMX HUV](https://via.placeholder.com/1200x400?text=NAMX+HUV+Pre-Order+Website)
+[![NAMX HUV](https://www.namx-hydrogen.com/svg/logo-namx.svg)](https://namx-huv.vercel.app/)
 
 ## 🚀 Project Overview
 
@@ -92,8 +92,8 @@ Ayoub Basidi - [ayoubbasidi1@gmail.com](mailto:ayoubbasidi1@gmail.com)
 
 Project Link: [https://github.com/AYOUBBASIDI/NAMX-HUV.git](https://github.com/AYOUBBASIDI/NAMX-HUV.git)
 
-Project Preview: [https://github.com/AYOUBBASIDI/NAMX-HUV.git](https://github.com/AYOUBBASIDI/NAMX-HUV.git)
+Project Preview: [NAMX-HUV](https://namx-huv.vercel.app/)
 
 ---
 
-⭐️ From [Bsdev](https://github.com/AYOUBBASIDI)
+⭐️ From [Bsdev](https://ayoubbasidi.me)
