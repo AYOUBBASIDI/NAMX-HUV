@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+# NAMX HUV Pre-Order Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![NAMX HUV](https://via.placeholder.com/1200x400?text=NAMX+HUV+Pre-Order+Website)
 
-## Available Scripts
+## 🚀 Project Overview
 
-In the project directory, you can run:
+The **NAMX HUV Pre-Order Website** is an innovative web application showcasing the cutting-edge hydrogen-powered vehicle, the NAMX HUV. This project demonstrates advanced web development skills using React, Next.js, and 3D modeling technologies to create an engaging and interactive platform for potential customers to explore and pre-order this revolutionary vehicle.
 
-### `npm start`
+### 🎯 Purpose
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project serves as an educational example to showcase web development skills and is not affiliated with or attempting to replicate the official NAMX website. It aims to illustrate the potential of modern web technologies in creating immersive user experiences in the automotive industry.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Key Features
 
-### `npm test`
+- **🏠 Interactive Home Page**: Featuring a captivating background video of the NAMX HUV
+- **⚠️ Disclaimer Section**: Clearly stating the project's intent and non-affiliation
+- **🛒 Pre-Order Functionality**: Streamlined process for exploring pricing and features
+- **🔄 3D Model Viewer**: Interactive 3D model of the NAMX HUV for in-depth exploration
+- **📱 Responsive Design**: Optimal viewing experience across all devices
+- **🤖 AI-Powered Chatbot**: Intelligent assistant for user inquiries (if implemented)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Technologies Used
 
-### `npm run build`
+- **React**: Building reusable UI components
+- **Tailwind CSS**: Modern and clean styling
+- **Three.js**: 3D model integration and visualization
+- **Framer Motion**: Smooth animations and transitions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (v14.0.0 or later)
+- npm or yarn
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
+   ```
+   git clone https://github.com/AYOUBBASIDI/NAMX-HUV.git
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Navigate to the project directory:
+   ```
+   cd namx-huv
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Install dependencies:
+   ```
+   npm install
+   # or
+   yarn install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Start the development server:
+   ```
+   npm start
+   # or
+   yarn dev
+   ```
 
-## Learn More
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📖 Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Explore the various sections of the website:
 
-### Code Splitting
+- Home: Get an overview of the NAMX HUV
+- Pre-Order: Learn about pricing and initiate the pre-order process
+- 3D Model: Interact with the 3D model of the vehicle
+- About: Discover more about the project and technologies used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
 
-### Analyzing the Bundle Size
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📄 License
 
-### Making a Progressive Web App
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🙏 Acknowledgements
 
-### Advanced Configuration
+- NAMX for inspiration and publicly available resources
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Three.js](https://threejs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📞 Contact
 
-### Deployment
+Ayoub Basidi - [ayoubbasidi1@gmail.com](mailto:ayoubbasidi1@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Project Link: [https://github.com/AYOUBBASIDI/NAMX-HUV.git](https://github.com/AYOUBBASIDI/NAMX-HUV.git)
 
-### `npm run build` fails to minify
+Project Preview: [https://github.com/AYOUBBASIDI/NAMX-HUV.git](https://github.com/AYOUBBASIDI/NAMX-HUV.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+⭐️ From [Bsdev](https://github.com/AYOUBBASIDI)
